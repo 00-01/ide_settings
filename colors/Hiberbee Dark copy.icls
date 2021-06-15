@@ -3,7 +3,7 @@
     <property name="created">2021-06-07T15:54:21</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-06-07T15:57:45</property>
+    <property name="modified">2021-06-07T16:21:25</property>
     <property name="originalScheme">_@user_Hiberbee Dark</property>
   </metaInfo>
   <colors>
@@ -72,7 +72,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="404040" />
     <option name="SELECTED_INDENT_GUIDE" value="555555" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffc83c" />
-    <option name="SELECTION_BACKGROUND" value="1e3c50" />
+    <option name="SELECTION_BACKGROUND" value="ff0000" />
     <option name="SEPARATOR_ABOVE_COLOR" value="404040" />
     <option name="SEPARATOR_BELOW_COLOR" value="404040" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4b4b4b" />
@@ -32044,6 +32044,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="ff" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="a4ef" />
       </value>
@@ -32242,11 +32243,12 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ff0000" />
-        <option name="EFFECT_COLOR" value="ffb900" />
+        <option name="EFFECT_COLOR" value="ff0000" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="ff0000" />
         <option name="EFFECT_COLOR" value="9380ff" />
       </value>
     </option>

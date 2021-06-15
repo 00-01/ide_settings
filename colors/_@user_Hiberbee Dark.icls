@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-06-07T15:57:45</property>
+    <property name="modified">2021-06-07T16:16:22</property>
     <property name="originalScheme">Hiberbee Dark</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -1069,6 +1069,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="ff" />
         <option name="EFFECT_COLOR" value="92d923" />
       </value>
     </option>
