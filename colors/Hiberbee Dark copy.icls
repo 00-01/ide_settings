@@ -3,7 +3,7 @@
     <property name="created">2021-06-07T15:54:21</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-06-18T14:54:12</property>
+    <property name="modified">2021-08-01T22:40:13</property>
     <property name="originalScheme">_@user_Hiberbee Dark</property>
   </metaInfo>
   <colors>
@@ -46,7 +46,7 @@
     <option name="FILESTATUS_SUPPRESSED" value="727072" />
     <option name="FILESTATUS_SWITCHED" value="ab9df2" />
     <option name="FILESTATUS_UNKNOWN" value="ffd866" />
-    <option name="GUTTER_BACKGROUND" value="282828" />
+    <option name="GUTTER_BACKGROUND" value="0" />
     <option name="HTML_TAG_TREE_LEVEL0" value="ed6b88" />
     <option name="HTML_TAG_TREE_LEVEL1" value="f9d778" />
     <option name="HTML_TAG_TREE_LEVEL2" value="b4da82" />
