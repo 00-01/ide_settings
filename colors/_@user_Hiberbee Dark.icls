@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2022-07-09T20:35:33</property>
+    <property name="modified">2022-10-08T04:28:55</property>
     <property name="originalScheme">Hiberbee Dark</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -32049,8 +32049,9 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="ff" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="a4ef" />
+        <option name="EFFECT_COLOR" value="0" />
       </value>
     </option>
     <option name="SMARTY_BRACKETS">
@@ -32181,8 +32182,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="ff" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ef6950" />
+        <option name="EFFECT_COLOR" value="0" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -32246,11 +32248,13 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ffb900" />
+        <option name="BACKGROUND" value="ff0000" />
+        <option name="EFFECT_COLOR" value="0" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="ff0000" />
         <option name="EFFECT_COLOR" value="9380ff" />
       </value>
     </option>
